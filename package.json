@@ -1,0 +1,23 @@
+{
+  "name": "Front-End",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aniplay-Music/Front-End.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aniplay-Music/Front-End/issues"
+  },
+  "homepage": "https://github.com/Aniplay-Music/Front-End#readme",
+  "dependencies": {
+    "vue": "^2.6.10"
+  }
+}
